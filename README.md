@@ -21,7 +21,7 @@ This project implements a **Face Recognition System using Principal Component An
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/akshaykumarb345-beep/Face-Recognition-PCA-Eigenfaces>
 cd Face-Recognition-PCA-Eigenfaces
 ```
 
